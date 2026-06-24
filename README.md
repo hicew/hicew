@@ -1,64 +1,65 @@
 <div align="center">
 
-# Henrique
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,100:121212&text=Henrique&fontColor=ffffff&fontSize=42&fontAlignY=38"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Java+Developer;Backend+Development;Personal+Projects" />
+
+</div>
+
+<br>
 
 ```java
-Backend developer focused on Java.
-Building projects since 2023.
+public final class Henrique {
+
+    private static final int AGE = 16;
+
+    private static final String LANGUAGE = "Java";
+
+    private static final String FOCUS = "Backend";
+
+}
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=400&lines=Java;Backend;Personal+Projects" />
+<p align="center">
+Programando desde 2023.
+<br>
+Atualmente desenvolvendo projetos pessoais utilizando Java.
+</p>
 
-</div>
-
----
-
-### Sobre
-
-Tenho 16 anos e programo desde 2023.
-
-Atualmente desenvolvo projetos pessoais utilizando Java, estudando arquitetura de software, bancos de dados e desenvolvimento backend.
-
----
-
-### Tecnologias
+<br>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,maven" />
-
 </div>
 
----
-
-### GitHub
+<br>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hicew&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=b4b4b4&icon_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hicew&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicew&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=b4b4b4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicew&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-```java
-public class Henrique {
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hicew&bg_color=00000000&hide_border=true&line=ffffff&color=8b949e&point=ffffff"/>
 
-    public static void main(String[] args) {
-        while(true) {
-            learn();
-            build();
-            improve();
-        }
-    }
+</div>
 
-}
+<br>
+
+<div align="center">
+
+```txt
+Java • Backend • MySQL • Personal Projects
 ```
 
 </div>
